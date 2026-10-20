@@ -1,0 +1,6 @@
+pip install torch torchvision tqdm sklearn matplotlib opencv-python
+pip install alphaction
+pip install pandas
+pip install imageio
+apt-get install ffmpeg libsm6 libxext6 -y
+pip install mediapipe

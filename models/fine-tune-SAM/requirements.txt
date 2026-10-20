@@ -1,0 +1,12 @@
+# Minimal requirements for SAM2 training, inference, and testing
+
+torch==2.1.2
+numpy==1.24.4
+opencv-python==4.8.1.78
+pyyaml==6.0.1
+requests==2.31.0
+tqdm==4.66.1
+
+# If you use a different CUDA version, adjust torch accordingly.
+# For Apple Silicon, you may need torch==2.1.2+cpu or a compatible build.
+# Add any other dependencies specific to your environment or codebase.

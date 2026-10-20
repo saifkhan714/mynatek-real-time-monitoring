@@ -1,0 +1,19 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Video and image, outputs
+*.mp4
+*.jpg
+*.png
+*.json
+
+
+# Output and temp directories
+frames/
+labelling_output/
+stgcn_data/
+test_pose/
+
+
+

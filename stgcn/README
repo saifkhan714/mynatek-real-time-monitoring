@@ -1,0 +1,9 @@
+
+python /content/debug_train_stgcn.py
+
+
+python test_video_stgcn.py --video test_short2.mp4 --model output/models/tsstg-model.pth
+
+python test_video_stgcn.py --video path/to/your/video.mp4 --model path/to/your/model.pth --device cuda
+
+python test_video_stgcn.py --video test_short2.mp4 --output output/processed_video.mp4

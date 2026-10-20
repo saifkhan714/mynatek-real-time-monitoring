@@ -1,0 +1,9 @@
+numpy<2.0.0
+matplotlib
+opencv-python
+scipy
+scikit-image
+tqdm
+PyQt5
+pynput
+jsonschema
